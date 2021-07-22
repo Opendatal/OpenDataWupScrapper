@@ -1,3 +1,14 @@
+function getNumberOfDays(start, end) {
+  const date1 = new Date(start);
+  const date2 = new Date(end);
+
+  const oneDay = 1000 * 60 * 60 * 24;
+  const diffInTime = date2.getTime() - date1.getTime();
+  const diffInDays = Math.round(diffInTime / oneDay);
+
+  return diffInDays;
+}
+
 function loaded() {
   const svg = d3.select("svg"),
     margin = { top: 20, right: 20, bottom: 30, left: 40 },
@@ -14,43 +25,58 @@ function loaded() {
   ).then((data) => {
     console.info(data);
 
-    let ready = 0;
-    let validation = 0;
-    let denied = 0;
-    let inProgress = 0;
+    let ready = [];
+    let validation = [];
+    let denied = [];
+    let inProgress = [];
 
     for (const obj of data) {
-      if (obj.State === "Datensatz steht bereit") ready++;
-      if (obj.State === "Anfrage wird geprüft") validation++;
-      if (obj.State === "Bereitstellung nicht möglich") denied++;
-      if (obj.State === "In Abstimmung") inProgress++;
+      if (obj.State === "Datensatz steht bereit") {
+        ready.push(obj);
+      }
+      if (obj.State === "Anfrage wird geprüft") {
+        validation.push(obj);
+      }
+      if (obj.State === "Bereitstellung nicht möglich") {
+        denied.push(obj);
+      }
+      if (obj.State === "In Abstimmung") {
+        inProgress.push(obj);
+      }
     }
 
     var stats = [
       {
         title: "Datensatz steht bereit",
-        count: ready,
-        color: "green"
+        count: ready.length,
+        color: "green",
       },
-
       {
         title: "Anfrage wird geprüft",
-        count: validation,
-        color: "orange"
+        count: validation.length,
+        color: "orange",
       },
       {
         title: "Bereitstellung nicht möglich",
-        count: denied,
-        color: "red"
+        count: denied.length,
+        color: "red",
       },
       {
         title: "In Abstimmung",
-        count: inProgress,
-        color: "blue"
+        count: inProgress.length,
+        color: "blue",
       },
     ];
 
     console.info(stats);
+
+    const sortedValidations = validation.sort((a, b) => b.Date - a.Date);
+
+    const lastItem = sortedValidations[sortedValidations.length - 1];
+
+    console.info(getNumberOfDays(lastItem.Date, Date.now()));
+
+    console.info(sortedValidations);
 
     x.domain(stats.map((d) => d.title));
     y.domain([0, d3.max(stats, (d) => d.count)]);
