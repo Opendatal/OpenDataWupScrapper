@@ -1,0 +1,466 @@
+[
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/sirenen-standorte",
+  "Title": "Sirenen Standorte",
+  "CommentCount": 0,
+  "Date": "2021-07-19T20:44:32+02:00",
+  "State": "Anfrage wird geprüft",
+  "CrawledAt": "2021-07-22T16:14:50.1939352+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/b%C3%BCrgerbudget-2021",
+  "Title": "Bürgerbudget 2021",
+  "CommentCount": 0,
+  "Date": "2021-04-26T21:15:20+02:00",
+  "State": "Datensatz steht bereit",
+  "CrawledAt": "2021-07-22T16:14:50.1949777+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/stra%C3%9Fenbeleuchtung",
+  "Title": "Straßenbeleuchtung",
+  "CommentCount": 0,
+  "Date": "2021-04-19T19:04:11+02:00",
+  "State": "Datensatz steht bereit",
+  "CrawledAt": "2021-07-22T16:14:50.1967123+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/hausarztparaxen-wuppertal",
+  "Title": "Hausarztparaxen Wuppertal",
+  "CommentCount": 0,
+  "Date": "2020-12-22T18:00:17+01:00",
+  "State": "Bereitstellung nicht möglich",
+  "CrawledAt": "2021-07-22T16:14:50.1978277+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/flurkarte",
+  "Title": "Flurkarte",
+  "CommentCount": 0,
+  "Date": "2020-10-29T14:58:26+01:00",
+  "State": "Anfrage wird geprüft",
+  "CrawledAt": "2021-07-22T16:14:50.1994284+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/verkehrsz%C3%A4hlung",
+  "Title": "Verkehrszählung",
+  "CommentCount": 0,
+  "Date": "2020-10-23T09:14:03+02:00",
+  "State": "Anfrage wird geprüft",
+  "CrawledAt": "2021-07-22T16:14:50.201027+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/stadtraumtypen",
+  "Title": "Stadtraumtypen",
+  "CommentCount": 0,
+  "Date": "2020-10-09T14:44:05+02:00",
+  "State": "Anfrage wird geprüft",
+  "CrawledAt": "2021-07-22T16:14:50.2020891+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/corona-infektionen-wuppertal",
+  "Title": "Corona-Infektionen in Wuppertal",
+  "CommentCount": 0,
+  "Date": "2020-10-04T14:02:21+02:00",
+  "State": "Anfrage wird geprüft",
+  "CrawledAt": "2021-07-22T16:14:50.2031344+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/abfallkalender",
+  "Title": "Abfallkalender",
+  "CommentCount": 0,
+  "Date": "2020-07-14T19:05:58+02:00",
+  "State": "Bereitstellung nicht möglich",
+  "CrawledAt": "2021-07-22T16:14:50.2041835+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/beteiligungsmanagement",
+  "Title": "Beteiligungsmanagement",
+  "CommentCount": 0,
+  "Date": "2020-07-06T19:32:41+02:00",
+  "State": "Datensatz steht bereit",
+  "CrawledAt": "2021-07-22T16:14:50.205736+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/bev%C3%B6lkerung",
+  "Title": "Bevölkerung",
+  "CommentCount": 0,
+  "Date": "2020-03-12T10:41:26+01:00",
+  "State": "Anfrage wird geprüft",
+  "CrawledAt": "2021-07-22T16:14:50.25048+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/bedarfsplan-kitas-und-grundschulen",
+  "Title": "Bedarfsplan Kitas und Grundschulen",
+  "CommentCount": 0,
+  "Date": "2020-03-01T13:04:42+01:00",
+  "State": "Anfrage wird geprüft",
+  "CrawledAt": "2021-07-22T16:14:50.2523658+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/verkehrsunfalldaten",
+  "Title": "Verkehrsunfalldaten",
+  "CommentCount": 0,
+  "Date": "2020-02-25T08:16:05+01:00",
+  "State": "Anfrage wird geprüft",
+  "CrawledAt": "2021-07-22T16:14:50.2535901+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/verwaltungskontenplan-der-stadt-wuppertal",
+  "Title": "Verwaltungskontenplan der Stadt Wuppertal",
+  "CommentCount": 0,
+  "Date": "2020-01-19T10:35:24+01:00",
+  "State": "Anfrage wird geprüft",
+  "CrawledAt": "2021-07-22T16:14:50.2546683+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/stra%C3%9Fenhierarchieplan-der-stadt-wuppertal",
+  "Title": "Straßenhierarchieplan der Stadt Wuppertal",
+  "CommentCount": 1,
+  "Date": "2019-12-04T11:47:57+01:00",
+  "State": "Anfrage wird geprüft",
+  "CrawledAt": "2021-07-22T16:14:50.2562463+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/mobilit%C3%A4tsdaten-aus-der-mid-2017",
+  "Title": "Mobilitätsdaten aus der MID 2017",
+  "CommentCount": 0,
+  "Date": "2019-11-27T13:37:40+01:00",
+  "State": "Anfrage wird geprüft",
+  "CrawledAt": "2021-07-22T16:14:50.2573343+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/protokolle-unfallkommission",
+  "Title": "Protokolle Unfallkommission",
+  "CommentCount": 0,
+  "Date": "2019-11-20T13:39:19+01:00",
+  "State": "Anfrage wird geprüft",
+  "CrawledAt": "2021-07-22T16:14:50.2584147+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/dienstanweisung-opendata",
+  "Title": "Dienstanweisung OpenData",
+  "CommentCount": 0,
+  "Date": "2019-10-31T17:40:54+01:00",
+  "State": "Datensatz steht bereit",
+  "CrawledAt": "2021-07-22T16:14:50.2611188+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/unfallh%C3%A4ufungsstellen",
+  "Title": "Unfallhäufungsstellen",
+  "CommentCount": 0,
+  "Date": "2019-06-04T09:59:30+02:00",
+  "State": "Anfrage wird geprüft",
+  "CrawledAt": "2021-07-22T16:14:50.2621994+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/raumbezogene-statistikdaten",
+  "Title": "Raumbezogene Statistikdaten",
+  "CommentCount": 0,
+  "Date": "2018-11-24T17:23:51+01:00",
+  "State": "Datensatz steht bereit",
+  "CrawledAt": "2021-07-22T16:14:50.2632729+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/h%C3%B6henkarte-ca-111-meter",
+  "Title": "Höhenkarte ca. 1*1*1 Meter",
+  "CommentCount": 0,
+  "Date": "2018-07-10T22:33:02+02:00",
+  "State": "Anfrage wird geprüft",
+  "CrawledAt": "2021-07-22T16:14:50.3062067+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/fahrplan-restm%C3%BCll-abholung",
+  "Title": "Fahrplan Restmüll Abholung",
+  "CommentCount": 0,
+  "Date": "2018-07-10T21:30:15+02:00",
+  "State": "Anfrage wird geprüft",
+  "CrawledAt": "2021-07-22T16:14:50.3072552+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/bahnstrecken-wuppertal",
+  "Title": "Bahnstrecken in Wuppertal",
+  "CommentCount": 0,
+  "Date": "2018-03-21T10:53:17+01:00",
+  "State": "Anfrage wird geprüft",
+  "CrawledAt": "2021-07-22T16:14:50.3088639+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/flurst%C3%BCcke-und-tats%C3%A4chliche-nutzung",
+  "Title": "Flurstücke und Tatsächliche Nutzung",
+  "CommentCount": 3,
+  "Date": "2018-02-27T15:38:22+01:00",
+  "State": "Datensatz steht bereit",
+  "CrawledAt": "2021-07-22T16:14:50.3099385+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/h%C3%B6henlinien-wuppertal",
+  "Title": "Höhenlinien Wuppertal",
+  "CommentCount": 2,
+  "Date": "2018-01-04T16:47:33+01:00",
+  "State": "Datensatz steht bereit",
+  "CrawledAt": "2021-07-22T16:14:50.3115249+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/radverkehrsplanung-stufen-1a-1b-2-m%C3%A4ngelanalysen",
+  "Title": "Radverkehrsplanung Stufen 1a, 1b, 2 Mängelanalysen",
+  "CommentCount": 0,
+  "Date": "2017-11-23T14:58:54+01:00",
+  "State": "Datensatz wird angefragt",
+  "CrawledAt": "2021-07-22T16:14:50.3125794+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/wahlkreis-102-stimmbezirk-76",
+  "Title": "Wahlkreis 102 Stimmbezirk 76",
+  "CommentCount": 0,
+  "Date": "2017-09-25T20:06:36+02:00",
+  "State": "Bereitstellung nicht möglich",
+  "CrawledAt": "2021-07-22T16:14:50.313648+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/umgebungsl%C3%A4rm",
+  "Title": "Umgebungslärm",
+  "CommentCount": 3,
+  "Date": "2017-05-14T21:22:41+02:00",
+  "State": "Datensatz steht bereit",
+  "CrawledAt": "2021-07-22T16:14:50.3152483+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/stra%C3%9Fenplan-wuppertal",
+  "Title": "Straßenplan Wuppertal",
+  "CommentCount": 0,
+  "Date": "2017-04-20T12:45:37+02:00",
+  "State": "Datensatz steht bereit",
+  "CrawledAt": "2021-07-22T16:14:50.3180778+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/j%C3%A4hrliche-fahrgastzahlen-wsw-der-wuppertaler-busse-und-schwebebahnen",
+  "Title": "Jährliche Fahrgastzahlen WSW der Wuppertaler Busse und Schwebebahnen",
+  "CommentCount": 0,
+  "Date": "2017-03-08T18:49:11+01:00",
+  "State": "Datensatz steht bereit",
+  "CrawledAt": "2021-07-22T16:14:50.3221967+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/analoge-und-digitale-werbeanlagen",
+  "Title": "Analoge und digitale Werbeanlagen",
+  "CommentCount": 0,
+  "Date": "2017-02-20T18:26:59+01:00",
+  "State": "Datensatz steht bereit",
+  "CrawledAt": "2021-07-22T16:14:50.4047012+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/mobile-radarkontrolle-messstellen",
+  "Title": "Mobile Radarkontrolle - Messstellen",
+  "CommentCount": 0,
+  "Date": "2017-02-15T20:58:00+01:00",
+  "State": "In Abstimmung",
+  "CrawledAt": "2021-07-22T16:14:50.409385+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/statisktik-des-ordungsamts-wuppertal",
+  "Title": "Statisktik des Ordungsamts Wuppertal",
+  "CommentCount": 0,
+  "Date": "2017-01-04T14:56:18+01:00",
+  "State": "Datensatz steht bereit",
+  "CrawledAt": "2021-07-22T16:14:50.4147026+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/geb%C3%A4udedaten",
+  "Title": "Gebäudedaten",
+  "CommentCount": 1,
+  "Date": "2016-12-15T12:16:35+01:00",
+  "State": "Datensatz steht bereit",
+  "CrawledAt": "2021-07-22T16:14:50.4179846+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/e-government",
+  "Title": "E-Government",
+  "CommentCount": 0,
+  "Date": "2016-12-10T16:44:59+01:00",
+  "State": "Bereitstellung nicht möglich",
+  "CrawledAt": "2021-07-22T16:14:50.4214085+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/stationen-und-fahrzeuge-von-cambio-carsharing",
+  "Title": "Stationen und Fahrzeuge von cambio CarSharing",
+  "CommentCount": 1,
+  "Date": "2016-12-08T16:10:55+01:00",
+  "State": "In Abstimmung",
+  "CrawledAt": "2021-07-22T16:14:50.4259708+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/fl%C3%A4chenverbrauchskataster-mit-zeitschiene",
+  "Title": "Flächenverbrauchskataster mit Zeitschiene",
+  "CommentCount": 0,
+  "Date": "2016-11-23T10:44:00+01:00",
+  "State": "Datensatz steht bereit",
+  "CrawledAt": "2021-07-22T16:14:50.4285624+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/bodenfunktionskarte-bofuka",
+  "Title": "Bodenfunktionskarte (BOFUKA)",
+  "CommentCount": 0,
+  "Date": "2016-11-23T10:32:41+01:00",
+  "State": "Anfrage wird geprüft",
+  "CrawledAt": "2021-07-22T16:14:50.4318715+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/nahverkersnutzung",
+  "Title": "Nahverkersnutzung",
+  "CommentCount": 0,
+  "Date": "2016-11-23T10:22:57+01:00",
+  "State": "Anfrage wird geprüft",
+  "CrawledAt": "2021-07-22T16:14:50.4369269+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/status-der-schwebebahn",
+  "Title": "Status der Schwebebahn",
+  "CommentCount": 0,
+  "Date": "2016-11-17T13:16:46+01:00",
+  "State": "Datensatz wird angefragt",
+  "CrawledAt": "2021-07-22T16:14:50.4369269+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/standorte-der-%C3%B6ffentlichen-auto-parkpl%C3%A4tze-wuppertal",
+  "Title": "Standorte der öffentlichen Auto-Parkplätze in Wuppertal",
+  "CommentCount": 0,
+  "Date": "2016-11-11T11:07:13+01:00",
+  "State": "Anfrage wird geprüft",
+  "CrawledAt": "2021-07-22T16:14:50.4927896+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/verkehrsunfalldaten-wuppertal",
+  "Title": "Verkehrsunfalldaten Wuppertal",
+  "CommentCount": 0,
+  "Date": "2016-10-21T16:30:45+02:00",
+  "State": "Anfrage wird geprüft",
+  "CrawledAt": "2021-07-22T16:14:50.4927896+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/wuppertaler-kfz-z%C3%A4hlstellen-und-z%C3%A4hldaten-von-2010-2016",
+  "Title": "Wuppertaler KFZ-Zählstellen und -Zähldaten von 2010 - 2016",
+  "CommentCount": 3,
+  "Date": "2016-10-19T15:49:51+02:00",
+  "State": "Anfrage wird geprüft",
+  "CrawledAt": "2021-07-22T16:14:50.4927896+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/es-geht-um-den-bebauungsplan-f%C3%BCr-das-neue-asphaltmischwerk-der-firma-deutag-west-ag",
+  "Title": "Es geht um den Bebauungsplan für das neue Asphaltmischwerk der Firma Deutag West AG .",
+  "CommentCount": 1,
+  "Date": "2016-10-11T11:15:12+02:00",
+  "State": "Bereitstellung nicht möglich",
+  "CrawledAt": "2021-07-22T16:14:50.4927896+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/betriebsdaten-von-schulen",
+  "Title": "Betriebsdaten von Schulen",
+  "CommentCount": 0,
+  "Date": "2016-10-10T10:51:05+02:00",
+  "State": "Datensatz wird angefragt",
+  "CrawledAt": "2021-07-22T16:14:50.4927896+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/kundenbefragungen-wsw-mobil",
+  "Title": "Kundenbefragungen WSW mobil",
+  "CommentCount": 0,
+  "Date": "2016-10-10T10:46:31+02:00",
+  "State": "Anfrage wird geprüft",
+  "CrawledAt": "2021-07-22T16:14:50.4993325+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/parkscheinautomaten-und-parkuhren",
+  "Title": "Parkscheinautomaten und Parkuhren",
+  "CommentCount": 0,
+  "Date": "2016-10-06T18:33:04+02:00",
+  "State": "Datensatz steht bereit",
+  "CrawledAt": "2021-07-22T16:14:50.4993325+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/kalender-der-grillh%C3%BCtte-auf-der-hardt",
+  "Title": "Kalender der Grillhütte auf der Hardt",
+  "CommentCount": 0,
+  "Date": "2016-10-04T18:41:18+02:00",
+  "State": "Bereitstellung nicht möglich",
+  "CrawledAt": "2021-07-22T16:14:50.5018532+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/video%C3%BCberwachung-durch-die-wsw",
+  "Title": "Videoüberwachung durch die WSW",
+  "CommentCount": 0,
+  "Date": "2016-09-27T10:41:11+02:00",
+  "State": "Datensatz wird angefragt",
+  "CrawledAt": "2021-07-22T16:14:50.5028711+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/bekanntmachungen-%C3%BCber-vergebene-auftr%C3%A4ge-der-stadt-wuppertal",
+  "Title": "Bekanntmachungen über vergebene Aufträge der Stadt Wuppertal",
+  "CommentCount": 0,
+  "Date": "2016-09-26T11:13:39+02:00",
+  "State": "Datensatz wird angefragt",
+  "CrawledAt": "2021-07-22T16:14:50.5028711+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/messdaten-zur-luftqualit%C3%A4t",
+  "Title": "Messdaten zur Luftqualität",
+  "CommentCount": 0,
+  "Date": "2016-09-22T08:26:21+02:00",
+  "State": "Datensatz wird angefragt",
+  "CrawledAt": "2021-07-22T16:14:50.5503437+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/fahrzeugbestand-und-treibstoff-mix",
+  "Title": "Fahrzeugbestand und Treibstoff-Mix",
+  "CommentCount": 0,
+  "Date": "2016-09-21T17:15:15+02:00",
+  "State": "Datensatz wird angefragt",
+  "CrawledAt": "2021-07-22T16:14:50.5538616+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/strassenverzeichnis",
+  "Title": "Strassenverzeichnis",
+  "CommentCount": 0,
+  "Date": "2016-09-21T11:01:14+02:00",
+  "State": "Datensatz steht bereit",
+  "CrawledAt": "2021-07-22T16:14:50.5538616+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/vertr%C3%A4ge-zum-d%C3%B6ppersbergumbau",
+  "Title": "Verträge zum Döppersbergumbau",
+  "CommentCount": 0,
+  "Date": "2016-09-20T12:03:09+02:00",
+  "State": "Bereitstellung nicht möglich",
+  "CrawledAt": "2021-07-22T16:14:50.5538616+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/video%C3%BCberwachung-im-%C3%B6ffentlichen-raum",
+  "Title": "Videoüberwachung im öffentlichen Raum",
+  "CommentCount": 1,
+  "Date": "2016-09-12T10:01:01+02:00",
+  "State": "Bereitstellung nicht möglich",
+  "CrawledAt": "2021-07-22T16:14:50.5538616+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/liste-der-fahrradparkpl%C3%A4tze",
+  "Title": "Liste der Fahrradparkplätze",
+  "CommentCount": 0,
+  "Date": "2016-09-09T13:50:49+02:00",
+  "State": "Datensatz steht bereit",
+  "CrawledAt": "2021-07-22T16:14:50.5609011+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/haltestellen-der-schwebebahn",
+  "Title": "Haltestellen der Schwebebahn",
+  "CommentCount": 0,
+  "Date": "2016-09-09T13:47:48+02:00",
+  "State": "Datensatz steht bereit",
+  "CrawledAt": "2021-07-22T16:14:50.5609011+02:00"
+ },
+ {
+  "URL": "https://www.offenedaten-wuppertal.de/anfragen/beliebte-vornamen",
+  "Title": "Beliebte Vornamen",
+  "CommentCount": 1,
+  "Date": "2016-09-06T00:04:46+02:00",
+  "State": "Datensatz steht bereit",
+  "CrawledAt": "2021-07-22T16:14:50.5609011+02:00"
+ }
+]
